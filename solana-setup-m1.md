@@ -29,7 +29,7 @@ Some packages of the Solana Toolchain require Rosetta be installed.  Run the fol
 3. Run the following command to install Solana from the Git Repository.  
 `git clone https://github.com/solana-labs/solana.git/`  
 
-4. Change directory into the `solana` directory.  
+4. Change directory to the `solana` directory.  
 `cd solana`  
 
 5. Checkout the Mainnet version from step 1.  
