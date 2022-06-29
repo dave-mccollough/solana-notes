@@ -1,2 +1,3 @@
-# solana-notes
-Solana Development Notes
+# Solana Notes
+
+My notes on learning to develop for the Solana blockchain.
